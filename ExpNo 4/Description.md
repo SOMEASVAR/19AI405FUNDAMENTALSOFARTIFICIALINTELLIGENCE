@@ -95,6 +95,6 @@ def SimpleHillClimbing():
 
 
 
-Result:
+<h2>Result:</h2>
 
 Thus,a string was constructed and implementation of Simple Hill Climbing was done successfully.
