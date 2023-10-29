@@ -94,9 +94,18 @@ print(traversedpath)
 ```
 
 <hr>
-<h3>Sample Input And Output</h3>
+<h3>Input 1:</h3>
+![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/9b2ce1fe-ea45-4029-bf68-1befe0f07279)\
+<h3>Output 1:</h3>
+![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/6bbd030f-6e67-4527-9a7a-e5946f4a867a)
 
-![image](https://github.com/SaiDarshan2003/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94692595/586c1003-1384-419f-b7bf-89ba323942df)
+<h3>Input 2:</h3>
+![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/e781a064-c4d6-4873-9896-4f9e3e3b9cab)
+
+<h3>Output 2:</h3>
+![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/fb89d076-1309-4e39-ba89-aba9e5f88b87)
+
+
 
 
 
