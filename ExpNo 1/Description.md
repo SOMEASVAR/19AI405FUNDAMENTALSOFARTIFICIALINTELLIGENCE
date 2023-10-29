@@ -95,14 +95,19 @@ print(traversedpath)
 
 <hr>
 <h3>Input 1:</h3>
+
 ![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/9b2ce1fe-ea45-4029-bf68-1befe0f07279)\
+
 <h3>Output 1:</h3>
+
 ![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/6bbd030f-6e67-4527-9a7a-e5946f4a867a)
 
 <h3>Input 2:</h3>
+
 ![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/e781a064-c4d6-4873-9896-4f9e3e3b9cab)
 
 <h3>Output 2:</h3>
+
 ![image](https://github.com/SOMEASVAR/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/93434149/fb89d076-1309-4e39-ba89-aba9e5f88b87)
 
 
